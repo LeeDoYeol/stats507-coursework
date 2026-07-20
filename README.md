@@ -1,6 +1,6 @@
 # stats507-coursework
 ---
-Welcome!
+Welcome! 👋
 
 
 This is a repo for the **MMSS** program.
