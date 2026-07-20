@@ -1,3 +1,6 @@
 # stats507-coursework
 ---
-This is a repo for the MMSS program.
+Welcome!
+This is a repo for the **MMSS** program.
+Files and codes of `Your Journey Into DS` will be uploaded.
+---
